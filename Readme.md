@@ -27,7 +27,6 @@ Despite its compact size, Tiny-UCloudNet demonstrates **competitive performance*
 **Comparison of model parameters for different architectures on a logarithmic scale**  
 
 ![Model Comparison Graph](images/param_model_comparison.png)  
-*(replace with actual path to your figure)*  
 
 ---
 
@@ -35,7 +34,6 @@ Despite its compact size, Tiny-UCloudNet demonstrates **competitive performance*
 **Simplified U-Net based architecture with depthwise-separable convolutions**  
 
 ![Tiny-UCloudNet Architecture](images/architecture.png)  
-*(replace with actual path to your figure)*  
 
 ---
 
